@@ -1,3 +1,3 @@
-# Break
-# Ejercicio para probar el ciclo while y la sentencia break
+# El Feo Devorador de Vocales
+# Ejercicio para probar el ciclo for junto al condicional if
 # Gracias por leerme
